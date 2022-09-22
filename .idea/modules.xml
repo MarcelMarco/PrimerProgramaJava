@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GestorFiguras/GestorFiguras.iml" filepath="$PROJECT_DIR$/GestorFiguras/GestorFiguras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PrimerProgramaJava.iml" filepath="$PROJECT_DIR$/.idea/PrimerProgramaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/Prueba.iml" filepath="$PROJECT_DIR$/Prueba/Prueba.iml" />
+    </modules>
+  </component>
+</project>
